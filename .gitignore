@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# History (user data — usually do not commit)
+fs_advisor_history/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
